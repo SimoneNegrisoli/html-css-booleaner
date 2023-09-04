@@ -48,6 +48,18 @@ article a{
 
 }
 
+figure{
+    margin-top: 10px;
+    width: 100%;
+}
+
+.figure .tim-1{
+    max-width: 45%;
+}
+.figure .tim-2{
+    max-width: 45%;
+}
+
 figcaption  {
     font-size: 15px;
 }
@@ -64,13 +76,17 @@ article p span{
 
 article ul{
     margin-top: 20px;
+    margin-left: 15px;
+    font-size: 20px;
 }
 
 article table{
     margin-top: 20px;
+    font-size: 20px;
     width: 100%;
     text-align: left;
 }
+
 
 article table thead{
     background-color: #1FA9E5;
@@ -79,6 +95,7 @@ article table thead{
 
 .color-row{
     background-color: #B1E5F2;
+
 }
 footer{
     margin-left: 15px;
