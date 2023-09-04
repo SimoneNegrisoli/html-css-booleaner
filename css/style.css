@@ -80,8 +80,11 @@ article table thead{
 .color-row{
     background-color: #B1E5F2;
 }
-
+footer{
+    margin-left: 15px;
+}
 footer h4{
     color: grey;
     font-size: 20px;
 }
+
