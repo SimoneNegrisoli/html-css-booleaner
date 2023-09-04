@@ -47,3 +47,41 @@ article a{
     color: gray;
 
 }
+
+figcaption  {
+    font-size: 15px;
+}
+
+
+article p{
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+article p span{
+    background-color: yellow;
+}
+
+article ul{
+    margin-top: 20px;
+}
+
+article table{
+    margin-top: 20px;
+    width: 100%;
+    text-align: left;
+}
+
+article table thead{
+    background-color: #1FA9E5;
+    color: white;
+}
+
+.color-row{
+    background-color: #B1E5F2;
+}
+
+footer h4{
+    color: grey;
+    font-size: 20px;
+}
